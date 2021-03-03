@@ -1,5 +1,6 @@
-﻿namespace apiProductor.Models
-{
+﻿
+namespace fncConsumidor.Models
+{ 
     using System;
     using System.ComponentModel.DataAnnotations;
     public class Data
