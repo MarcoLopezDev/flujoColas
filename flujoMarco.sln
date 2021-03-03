@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "apiProductor", "apiProductor\apiProductor.csproj", "{23CC2AA3-D21E-4DB3-A1A4-6ADE82756B7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fncConsumidor", "fncConsumidor\fncConsumidor.csproj", "{A6EB7D02-8090-480E-AB79-25ACB58F51E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23CC2AA3-D21E-4DB3-A1A4-6ADE82756B7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CC2AA3-D21E-4DB3-A1A4-6ADE82756B7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CC2AA3-D21E-4DB3-A1A4-6ADE82756B7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CC2AA3-D21E-4DB3-A1A4-6ADE82756B7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6EB7D02-8090-480E-AB79-25ACB58F51E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6EB7D02-8090-480E-AB79-25ACB58F51E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6EB7D02-8090-480E-AB79-25ACB58F51E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6EB7D02-8090-480E-AB79-25ACB58F51E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2898CCA8-F826-4522-910C-A4600AB855E5}
+	EndGlobalSection
+EndGlobal
